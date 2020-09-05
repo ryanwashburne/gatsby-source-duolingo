@@ -1,16 +1,18 @@
 {
-  "name": "gatsby-starter-plugin",
+  "name": "gatsby-source-duolingo",
   "version": "1.0.0",
-  "description": "A minimal boilerplate for the essential files Gatsby looks for in a plugin",
+  "description": "Gatsby source plugin for fetching user lanugage data from Duolingo",
   "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
-    "build": "echo \"No build script setup\""
-  },
   "keywords": [
     "gatsby",
-    "gatsby-plugin"
+    "gatsby-plugin",
+    "gatsby-source-plugin"
   ],
-  "author": "Kyle Gill <kyle.robert.gill@gmail.com>",
-  "license": "0BSD"
+  "author": "Ryan Washburne <ryan.washburne@gmail.com>",
+  "license": "MIT",
+  "repository": "https://github.com/ryanwashburne/gatsby-source-duolingo.git",
+  "homepage": "https://github.com/ryanwashburne/gatsby-source-duolingo#readme",
+  "bugs": {
+    "url": "https://github.com/ryanwashburne/gatsby-source-duolingo/issues"
+  }
 }
