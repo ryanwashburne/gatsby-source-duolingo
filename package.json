@@ -10,7 +10,10 @@
   ],
   "author": "Ryan Washburne <ryan.washburne@gmail.com>",
   "license": "MIT",
-  "repository": "https://github.com/ryanwashburne/gatsby-source-duolingo.git",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ryanwashburne/gatsby-source-duolingo.git"
+  },
   "homepage": "https://github.com/ryanwashburne/gatsby-source-duolingo#readme",
   "bugs": {
     "url": "https://github.com/ryanwashburne/gatsby-source-duolingo/issues"
